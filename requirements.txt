@@ -1,7 +1,3 @@
-dash
-requests
-flask
-retrying
-ipython
-ipykernel
-ansi2html
+jupyter-dash
+openpyxl
+matplotlib
